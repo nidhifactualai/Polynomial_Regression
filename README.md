@@ -1,0 +1,2 @@
+# Polynomial_Regression
+Problem Statement: The objective of the problem is to predict values “current price” attribute from the given features of the Test data.  Essentially, the company wants —  To identify the variables affecting cars current prices,  To create a linear model that quantitatively relates cars current prices with identified significant variables.  To know the accuracy of the model, i.e. how well these variables can predict car prices.  So interpretation is important!
